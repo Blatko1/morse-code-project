@@ -1,2 +1,2 @@
 # morse-code-project
-Ovo je maleni repozitorij za seminarski rad u skoli TSRB.
+Ovo je maleni repozitorij za seminarski rad u TSRB.
